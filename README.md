@@ -1,4 +1,4 @@
-# 1.06_Indivivual-task-Pyhton
+# 1.06_Individual-task-Pyhton
 
 ```py
 import datetime
